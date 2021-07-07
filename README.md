@@ -2,6 +2,8 @@
 
 ### LDIF to CSV
 
+#### This fork specifically supports Python 2
+
 I work with LDAP on a regularly basis. I frequently have to pull data using ldapsearch. While the data that ldapsearch 
 spits out is a decent representation sometimes I want something a bit easier to work with.
 
